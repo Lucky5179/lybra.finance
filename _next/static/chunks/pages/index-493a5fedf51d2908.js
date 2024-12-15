@@ -108,7 +108,7 @@
 
                     (0, a.jsx)(r(), {
                       target: "_blank",
-                      href: "https://twitter.com/LybraFinance",
+                      href: "https://x.com/",
                       rel: "nofollow noopener noreferrer",
                       children: (0, a.jsx)("img", {
                         src:

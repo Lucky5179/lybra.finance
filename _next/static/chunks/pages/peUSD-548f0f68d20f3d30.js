@@ -119,7 +119,7 @@
                     }),
                     (0, c.jsx)(o(), {
                       target: "_blank",
-                      href: "https://twitter.com/LybraFinance",
+                      href: "https://x.com/",
                       rel: "nofollow noopener noreferrer",
                       children: (0, c.jsx)("img", {
                         src:
